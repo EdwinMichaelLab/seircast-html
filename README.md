@@ -1,4 +1,4 @@
-# seircast-html
+# seircast-html (it's public. DO NOT INCLUDE ANY SECERET)
 SEIRcast.org static html files
 
 ### how to build/run
